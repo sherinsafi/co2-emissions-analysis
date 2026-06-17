@@ -33,4 +33,4 @@ using Python and Power BI.
 4. Learn from COVID dip — promote remote work
 
 ## 📄 Report
-[View Stage 4 Report](Global_CO2_Emissions_Analysis_Report.pdf)
+[View Final Report](Global_CO2_Emissions_Analysis_Report.pdf)
