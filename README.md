@@ -17,7 +17,7 @@ using Python and Power BI.
 - Google Colab
 
 ## 📊 Dashboard
-![Dashboard](Global_CO2_Emission_Dashboard.pdf)
+[Dashboard](Global_CO2_Emission_Dashboard.pdf)
 
 ## 💡 Key Insights
 1. Coal accounts for 42.73% of all CO2 emissions
